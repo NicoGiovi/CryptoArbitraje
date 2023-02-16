@@ -1,4 +1,4 @@
-# CryptoArbitraje
+# CryptoArbitrage
 Example of an ETL in python
 
 Requisites:
