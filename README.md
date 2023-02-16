@@ -15,3 +15,4 @@ Then we will transform the raw data from both exchanges into a dictionary to mat
 
 And finally we will calculate the price diference and temporarily print it out in the console. Later we will implement it as an API of our own, or as a AirFlow Script
 
+https://github.com/NicoGiovi/CryptoArbitraje/blob/main/imagen_2023-02-15_210857771.png
