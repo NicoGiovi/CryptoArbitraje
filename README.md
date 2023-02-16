@@ -3,8 +3,8 @@ Example of an ETL in python
 
 Requisites:
 
--binance-python
--requests
+- binance-python
+- requests
 
 In this example we wil extract data from two diferent exchanges (binance and kucoin) to make a comparision in the prices of all the usdt paired tokens. We will use two diferent methods:
 
